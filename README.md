@@ -1,4 +1,6 @@
 # README
+how to push to github "initial commit"
+$ git init && git add . && git commit -m "initial commit" && git branch -M master && git remote add origin git@github.com:tuta2/class-api.git && git push origin master
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
